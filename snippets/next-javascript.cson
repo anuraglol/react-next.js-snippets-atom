@@ -1,5 +1,5 @@
  ".source.js, .source.jsx":
- 'JavaScript: Next.js get server side props':
+  'JavaScript: Next.js get server side props':
   'prefix': 'ngss'
   'body': """
     export const getServerSideProps = async (context) => {
@@ -56,4 +56,4 @@
     };
     
     export default Document;
-  """ 
+  """  
